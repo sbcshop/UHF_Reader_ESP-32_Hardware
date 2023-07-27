@@ -8,10 +8,10 @@ In this github repo you will find Hardware design files for UHF Reader for ESP32
   - [UHF Reader for ESP32 Getting Started](https://github.com/sbcshop/UHF_Reader_ESP-32_Software) - This repo contains UHF Reader for ESP32 Getting Started and Sample Codes.
 
 ## Related Products
-   * [UHF Reader for Pico W](https://shop.sb-components.co.uk/products/uhf-reader-based-on-pico-w-esp32?variant=40586828447827) - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
-   * [Ardi UHF Shield for Arduino Uno](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno?variant=40791294836819) - Ardi UHF Shield, the ultimate RFID solution for your Arduino Uno and compatible boards.
-   * [UHF RFID Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat?variant=40520163721299) - The UHF RFID lite HAT for Raspberry Pi is a compact and high-performance device
-   * [UHF Lite Module](https://shop.sb-components.co.uk/products/uhf-lite-module?variant=40621562232915) - Simple module for integration in any project requiring highly efficient and reliable RFID technology.
+   * [UHF Reader for Pico W](https://shop.sb-components.co.uk/products/uhf-reader-based-on-pico-w-esp32?variant=40586828447827) - UHF Reader powered by RPi Pico W
+   * [Ardi UHF Shield](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno?variant=40791294836819) - UHF based shield with Oled display and Buzzer onboard
+   * [UHF Lite HAT](https://shop.sb-components.co.uk/products/uhf-rfid-lite-hat) - Raspberry Pi Version
+   * [UHF Lite Expansion for Raspberry Pi Pico](https://shop.sb-components.co.uk/products/uhf-rfid-for-pico?_pos=5&_sid=75312e089&_ss=r): UHF Lite Expansion to use with Pico/ Pico W
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
 
