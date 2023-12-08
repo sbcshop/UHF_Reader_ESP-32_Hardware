@@ -1,5 +1,5 @@
 # UHF_Reader_ESP-32_Hardware
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/DiscriptivebannerUHFReader_e60e9388-d82b-4252-b0c7-54cb48fd2b04.jpg?v=1690438714">
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/bannerUHFReaderforpico-esp32.png?v=1701237229">
 In this GitHub repo, you will find Hardware design files of UHF Reader for ESP32.
 
 ### Repository Contents:
